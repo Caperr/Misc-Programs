@@ -1,4 +1,4 @@
-# Misc-Programs
+t# Misc-Programs
 Games, mathematical puzzles, and any other programs that didn't fit into another category.
 
 Hack()    
@@ -18,7 +18,7 @@ Simple implementation of this standard log-linear sorting algorithm. See the end
 Snake  
 An early demo showing snake running on pygame. Pygame is a third party that is required to be installed in order to run this program.  
 This game was written during my A' level computer science course, for the purpose of python and pygame training. The debug  
-messages visibile in the console relate to a countdown before the next "superfood" appears. This features is not functional.  
+messages visibile in the console relate to a countdown before the next "superfood" appears. This feature is not yet functional.  
   
 Magic Square  
 A magic square is an n by n grid containing all numbers 1 through n*n and no duplicates, where all rows, columns,  
