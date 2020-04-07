@@ -22,7 +22,7 @@ messages visibile in the console relate to a countdown before the next "superfoo
   
 Magic Square  
 A magic square is an n by n grid containing all numbers 1 through n*n and no duplicates, where all rows, columns,  
-and diagonals individually add up to the same figure. This is an algorithm to solve a magic square of any ODD size.  
+and corner-to-corner diagonals individually add up to the same figure. This is an algorithm to solve a magic square of any ODD size.  
 Feel free to try with different sizes, it should work up to the limits of... well, your memory capacity.  
   
 Number Base Converter  
