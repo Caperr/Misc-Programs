@@ -16,7 +16,7 @@ Merge Sort
 Simple implementation of this standard log-linear sorting algorithm. See the end of the file for example cases, including a random list generator.  
   
 Snake  
-An early demo showing snake running on pygame. Pygame is a third party that is required to be installed in order to run this program.  
+An early demo showing snake running on pygame. Pygame is a third party library that is required to be installed in order to run this program.  
 This game was written during my A' level computer science course, for the purpose of python and pygame training. The debug  
 messages visibile in the console relate to a countdown before the next "superfood" appears. This feature is not yet functional.  
   
